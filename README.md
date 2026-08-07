@@ -2,6 +2,10 @@
 
 # InkWeaver
 
+<!-- hy-mt2-i18n:start -->
+**English** · [中文](./README_zh-CN.md) · [日本語](./README_ja.md) · [Español](./README_es.md)
+<!-- hy-mt2-i18n:end -->
+
 *Where the narrative threads of manga meet the loom of automation—a curator for the digital collector.*
 
 **InkWeaver** is not just another manga downloader. It is a thoughtful, automated archival companion designed for readers who value organization, consistency, and the quiet joy of a curated library. Born from the original spark of MeManga, InkWeaver reimagines the process: instead of merely fetching chapters, it weaves them into a structured, searchable, and visually coherent collection that respects the source material and the collector's eye.
